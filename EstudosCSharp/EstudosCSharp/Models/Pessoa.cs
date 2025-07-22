@@ -9,10 +9,13 @@ namespace EstudosCSharp.Models
     {
         public string Nome { get; set; }
         public int Idade { get; set; }
-
-        public void Apresentar()
+        public string NomeRepresentanteLegal { get; set; }
+        
+        public void Apresentar() // @class)
         {
-            Console.WriteLine($"Apresentar {Nome}, {Idade}");
+            // Variáveis podem ter nomes dedicados com @
+            // @class = "teste";
+            Console.WriteLine($"Apresentar {Nome}, {Idade}\nxD\n{NomeRepresentanteLegal}");
         }
     }
 }
