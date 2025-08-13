@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\bin\Debug\net9.0\ExecoesEColecoes.exe
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\bin\Debug\net9.0\ExecoesEColecoes.deps.json
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\bin\Debug\net9.0\ExecoesEColecoes.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\bin\Debug\net9.0\ExecoesEColecoes.dll
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\bin\Debug\net9.0\ExecoesEColecoes.pdb
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ExecoesEColecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ExecoesEColecoes.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ExecoesEColecoes.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ExecoesEColecoes.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ExecoesEColecoes.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ExecoesEColecoes.dll
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\refint\ExecoesEColecoes.dll
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ExecoesEColecoes.pdb
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ExecoesEColecoes.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\ExecoesEColecoes\ExecoesEColecoes\obj\Debug\net9.0\ref\ExecoesEColecoes.dll

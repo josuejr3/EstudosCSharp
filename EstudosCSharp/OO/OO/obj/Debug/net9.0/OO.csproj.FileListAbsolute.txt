@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\bin\Debug\net9.0\OO.exe
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\bin\Debug\net9.0\OO.deps.json
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\bin\Debug\net9.0\OO.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\bin\Debug\net9.0\OO.dll
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\bin\Debug\net9.0\OO.pdb
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\OO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\OO.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\OO.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\OO.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\OO.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\OO.dll
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\refint\OO.dll
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\OO.pdb
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\OO.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\EstudosCSharp\OO\OO\obj\Debug\net9.0\ref\OO.dll
