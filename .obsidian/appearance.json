@@ -2,5 +2,6 @@
   "cssTheme": "Flexoki",
   "accentColor": "#02880b",
   "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "theme": "obsidian"
 }

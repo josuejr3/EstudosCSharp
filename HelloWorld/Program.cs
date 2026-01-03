@@ -40,6 +40,33 @@ namespace HelloWorld
 
             Console.WriteLine((resultado, resultado2, resultado3, resultado4));
 
+            // Condicionais no C#
+
+            if (10 > 200){
+                Console.WriteLine("É verdade!");
+            }
+            else{
+				Console.WriteLine("É falso!");
+			}
+
+            int idade = int.Parse(Console.ReadLine());
+
+            ExibeMsg();
+            int value = GerarPreco(30);
+            Console.WriteLine(value);
+
+        }
+
+        static void ExibeMsg()
+        {
+			Console.WriteLine("Essa é a mensagem");
+		}
+
+        static int GerarPreco(int preco)
+        {
+            int valorFinal = preco + 2;
+
+            return Math.Abs(valorFinal);
         }
 
     } // Fim do Programa
