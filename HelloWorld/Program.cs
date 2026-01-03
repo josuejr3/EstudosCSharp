@@ -9,65 +9,48 @@ namespace HelloWorld
 {
     internal class Program // Inicio do Programa
 	{
-        
-        static void Main(string[] args) // Função principal
+
+
+		enum Cor { Azul = 23, Verde = 1, Amarelo = 13, Vermelho = 8 };
+
+
+
+		static void Main(string[] args) // Função principal
         {
 
-            int segundaGuerraMundial = 1945;
-            float velocidade = 294.56f;
+            // Arrays
+            string[] products = new string[5] {
+                "Lol",
+                "Lost Ark",
+                "NFS Unbound",
+                "PdE",
+                "Marvel Rivals"
+            };
 
-            // variáveis
-            int numero = 2;
-            var letra = 'c';
-            dynamic qualquerCoisa = true;
+			int[] values = { 1, 2, 3, 4, 5 };
 
-            // constantes
-            const float PI = 3.14f;
+			Console.WriteLine(products);  
+            Console.WriteLine(products[2]);
 
-            // I/O
-            string name = Console.ReadLine();
-            Console.WriteLine("Seu nome é: ");
-            Console.WriteLine(name);
+            Cor corFavorita = Cor.Azul;
+			Console.WriteLine(corFavorita);
 
-            // Operações aritméticas
 
-            int num = 10;
-            int resultado = num + numero;
-            int resultado2 = num - numero;
-            int resultado3 = num * numero;
+			int contador = 0;
+			while (contador < 10)
+			{
+				contador++;
+			}
+			Console.WriteLine("Terminou!");
 
-            var resultado4 = num / numero;
 
-            Console.WriteLine((resultado, resultado2, resultado3, resultado4));
-
-            // Condicionais no C#
-
-            if (10 > 200){
-                Console.WriteLine("É verdade!");
-            }
-            else{
-				Console.WriteLine("É falso!");
+			int[] numeros = { 1, 2, 3, 4, 5 };
+			foreach (int numero in numeros){
+				Console.WriteLine(numero);
 			}
 
-            int idade = int.Parse(Console.ReadLine());
-
-            ExibeMsg();
-            int value = GerarPreco(30);
-            Console.WriteLine(value);
-
-        }
-
-        static void ExibeMsg()
-        {
-			Console.WriteLine("Essa é a mensagem");
 		}
 
-        static int GerarPreco(int preco)
-        {
-            int valorFinal = preco + 2;
 
-            return Math.Abs(valorFinal);
-        }
-
-    } // Fim do Programa
+	} // Fim do Programa
 }
