@@ -1,0 +1,7 @@
+D:\Josue\Cursos\EstudosCSharp\ObjectOrientedProgramming\obj\Debug\ObjectOrientedProgramming.csproj.AssemblyReference.cache
+D:\Josue\Cursos\EstudosCSharp\ObjectOrientedProgramming\obj\Debug\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\ObjectOrientedProgramming\bin\Debug\ObjectOrientedProgramming.exe.config
+D:\Josue\Cursos\EstudosCSharp\ObjectOrientedProgramming\bin\Debug\ObjectOrientedProgramming.exe
+D:\Josue\Cursos\EstudosCSharp\ObjectOrientedProgramming\bin\Debug\ObjectOrientedProgramming.pdb
+D:\Josue\Cursos\EstudosCSharp\ObjectOrientedProgramming\obj\Debug\ObjectOrientedProgramming.exe
+D:\Josue\Cursos\EstudosCSharp\ObjectOrientedProgramming\obj\Debug\ObjectOrientedProgramming.pdb

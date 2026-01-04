@@ -49,6 +49,10 @@ namespace HelloWorld
 				Console.WriteLine(numero);
 			}
 
+
+			string nome = "Nome";
+			Console.WriteLine($"Seu nome é {nome}");
+
 		}
 
 

@@ -96,6 +96,13 @@ Console.WriteLine("Seu nome é: ");
 Console.WriteLine(name);
 ```
 
+Uma coisa legal da saída é que temos ela formatada igual as f strings do Python seguindo a sintaxe abaixo.
+
+```cs
+string nome = "Nome";
+Console.WriteLine($"Seu nome é {nome}")
+```
+
 ---
 <h2 align="center" style="color: 00ff00">Operações Aritméticas em C#</h2>
 As operações aritméticas são iguais as de outras linguagens de programação. Divisão de números inteiros sempre terá um resultado inteiro. Se um dos números forem decimal o resultado será float.
