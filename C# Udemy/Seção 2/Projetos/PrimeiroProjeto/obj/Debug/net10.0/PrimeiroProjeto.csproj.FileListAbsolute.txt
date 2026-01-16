@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\refint\PrimeiroProjeto.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 2\Projetos\PrimeiroProjeto\obj\Debug\net10.0\ref\PrimeiroProjeto.dll

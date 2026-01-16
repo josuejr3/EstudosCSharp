@@ -11,6 +11,12 @@ namespace ObjectOrientedProgramming {
         public bool IsActive;
         public string Name;
 
+        public Player() {
+            Age = 23;
+            IsActive = true;
+            Name = "Sem Nome";
+        }
+        
         public Player(string name) {
             Age = 23;
             IsActive = true;
@@ -20,8 +26,6 @@ namespace ObjectOrientedProgramming {
         ~Player() {
             Console.WriteLine("Destroyed");
         }
-
-    
         
     } 
     
@@ -41,6 +45,16 @@ namespace ObjectOrientedProgramming {
             faker.Name = newNamePlayer;
             
             Console.WriteLine(faker.Name);
+            
+            // Outro jogador
+            Player otherPlayer = new  Player();
+            Console.WriteLine(otherPlayer.Name);
+
+            
+            // ------------------- TESTANDO O THIS -----------------
+            Calculus c1 = new Calculus(1, 2);
+            Console.WriteLine($"O calculo foi de {c1.Somar()}");
+
         }
     }
 }
