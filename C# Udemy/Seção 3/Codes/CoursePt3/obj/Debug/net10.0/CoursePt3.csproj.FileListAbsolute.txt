@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\bin\Debug\net10.0\CoursePt3.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\bin\Debug\net10.0\CoursePt3.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\bin\Debug\net10.0\CoursePt3.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\bin\Debug\net10.0\CoursePt3.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\bin\Debug\net10.0\CoursePt3.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\CoursePt3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\CoursePt3.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\CoursePt3.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\CoursePt3.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\CoursePt3.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\CoursePt3.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\refint\CoursePt3.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\CoursePt3.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\CoursePt3.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 3\Codes\CoursePt3\obj\Debug\net10.0\ref\CoursePt3.dll
