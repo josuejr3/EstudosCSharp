@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ProductsProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ProductsProblem.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ProductsProblem.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ProductsProblem.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ProductsProblem.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\bin\Debug\net10.0\ProductsProblem.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\bin\Debug\net10.0\ProductsProblem.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\bin\Debug\net10.0\ProductsProblem.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\bin\Debug\net10.0\ProductsProblem.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\bin\Debug\net10.0\ProductsProblem.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ProductsProblem.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\refint\ProductsProblem.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ProductsProblem.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ProductsProblem.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 4\Codes\ProductsProblem\obj\Debug\net10.0\ref\ProductsProblem.dll
