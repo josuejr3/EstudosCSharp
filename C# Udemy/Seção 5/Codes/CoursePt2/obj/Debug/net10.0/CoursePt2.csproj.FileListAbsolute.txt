@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\bin\Debug\net10.0\CoursePt2.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\bin\Debug\net10.0\CoursePt2.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\bin\Debug\net10.0\CoursePt2.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\bin\Debug\net10.0\CoursePt2.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\bin\Debug\net10.0\CoursePt2.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\CoursePt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\CoursePt2.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\CoursePt2.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\CoursePt2.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\CoursePt2.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\CoursePt2.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\refint\CoursePt2.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\CoursePt2.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\CoursePt2.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\CoursePt2\obj\Debug\net10.0\ref\CoursePt2.dll
