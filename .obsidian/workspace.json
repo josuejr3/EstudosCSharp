@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C# Udemy/Seção 4/2. Introdução.md",
+                "file": "C# Udemy/Seção 5/3. Encapsulamento, Properties e Modificadores de Acesso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Introdução"
+              "title": "3. Encapsulamento, Properties e Modificadores de Acesso"
             }
           }
         ]
@@ -170,22 +170,26 @@
   },
   "active": "ae42e5da12ab4699",
   "lastOpenFiles": [
-    "Pasted image 20260117204738.png",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/CoursePt2.AssemblyInfo.cs",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/CoursePt2.AssemblyInfoInputs.cache",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/CoursePt2.GeneratedMSBuildEditorConfig.editorconfig",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/CoursePt2.assets.cache",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/CoursePt2.GlobalUsings.g.cs",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/refint",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/ref",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0",
+    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug",
+    "C# Udemy/Seção 5/Codes/CoursePt2/bin/Debug/net10.0",
+    "C# Udemy/Seção 5/Codes/CoursePt2/bin/Debug",
+    "C# Udemy/Seção 5/2. Construtores, Sobrecarga e o This.md",
+    "C# Udemy/Seção 5/3. Encapsulamento, Properties e Modificadores de Acesso.md",
+    "C# Udemy/Seção 5/1. Visão Geral.md",
+    "C# Udemy/Seção 4/1. Visão Geral.md",
     "C# Udemy/Seção 4/2. Introdução.md",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/bin/Debug/net10.0/ProductsProblem.pdb",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/obj/Debug/net10.0/ref/ProductsProblem.dll",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/bin/Debug/net10.0/ProductsProblem.dll",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/bin/Debug/net10.0/ProductsProblem.runtimeconfig.json",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/obj/Debug/net10.0/ProductsProblem.genruntimeconfig.cache",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/bin/Debug/net10.0/ProductsProblem.deps.json",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/bin/Debug/net10.0/ProductsProblem.exe",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/obj/Debug/net10.0/apphost.exe",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/obj/Debug/net10.0/refint/ProductsProblem.dll",
-    "C# Udemy/Seção 4/Codes/ProductsProblem/obj/Debug/net10.0/ProductsProblem.pdb",
+    "Pasted image 20260117204738.png",
     "C# Udemy/Seção 4/Imagens/Resumo.png",
     "C# Udemy/Seção 4/Imagens/Fórmula de Heron.png",
     "Pasted image 20260115194517.png",
-    "C# Udemy/Seção 4/1. Visão Geral.md",
     "C# Udemy/Seção 3/1. Visão Geral.md",
     "5. Funções e Laços de Repetição.md",
     "C# Udemy/Seção 3/4. Operadores Comparativos, Lógicos e Estruturas Condicionais.md",
@@ -212,9 +216,6 @@
     "Curso Latex - Seções.md",
     "Curso Latex - Bibliografia.md",
     "Curso Latex - Formatação Avançada.md",
-    "Curso Latex - Matemática.md",
-    "Curso Latex - Tabelas.md",
-    "Curso Latex - Fechando o Documento.md",
     "main/Sem título.canvas"
   ]
 }
