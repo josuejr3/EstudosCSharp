@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\refint\ExercicioBanco.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 5\Codes\ExercicioBanco\obj\Debug\net10.0\ref\ExercicioBanco.dll

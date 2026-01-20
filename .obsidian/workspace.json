@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C# Udemy/Seção 5/3. Encapsulamento, Properties e Modificadores de Acesso.md",
+                "file": "C# Udemy/Seção 5/2. Construtores, Sobrecarga e o This.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Encapsulamento, Properties e Modificadores de Acesso"
+              "title": "2. Construtores, Sobrecarga e o This"
             }
           }
         ]
@@ -170,19 +170,19 @@
   },
   "active": "ae42e5da12ab4699",
   "lastOpenFiles": [
-    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/CoursePt2.csproj.FileListAbsolute.txt",
-    "C# Udemy/Seção 5/Codes/CoursePt2/bin/Debug/net10.0/CoursePt2.pdb",
-    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/ref/CoursePt2.dll",
-    "C# Udemy/Seção 5/Codes/CoursePt2/bin/Debug/net10.0/CoursePt2.dll",
-    "C# Udemy/Seção 5/Codes/CoursePt2/bin/Debug/net10.0/CoursePt2.runtimeconfig.json",
-    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/CoursePt2.genruntimeconfig.cache",
-    "C# Udemy/Seção 5/Codes/CoursePt2/bin/Debug/net10.0/CoursePt2.deps.json",
-    "C# Udemy/Seção 5/Codes/CoursePt2/bin/Debug/net10.0/CoursePt2.exe",
-    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/apphost.exe",
-    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/refint/CoursePt2.dll",
-    "C# Udemy/Seção 5/Codes/CoursePt2/obj/Debug/net10.0/CoursePt2.pdb",
-    "C# Udemy/Seção 5/2. Construtores, Sobrecarga e o This.md",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/ExercicioBanco.csproj.FileListAbsolute.txt",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.pdb",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/ref/ExercicioBanco.dll",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.dll",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.runtimeconfig.json",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/ExercicioBanco.genruntimeconfig.cache",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.deps.json",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.exe",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/apphost.exe",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/refint/ExercicioBanco.dll",
+    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/ExercicioBanco.pdb",
     "C# Udemy/Seção 5/3. Encapsulamento, Properties e Modificadores de Acesso.md",
+    "C# Udemy/Seção 5/2. Construtores, Sobrecarga e o This.md",
     "C# Udemy/Seção 5/1. Visão Geral.md",
     "C# Udemy/Seção 4/1. Visão Geral.md",
     "C# Udemy/Seção 4/2. Introdução.md",
