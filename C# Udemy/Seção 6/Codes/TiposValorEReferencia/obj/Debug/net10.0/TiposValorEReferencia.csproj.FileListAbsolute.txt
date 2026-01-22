@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\bin\Debug\net10.0\TiposValorEReferencia.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\bin\Debug\net10.0\TiposValorEReferencia.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\bin\Debug\net10.0\TiposValorEReferencia.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\bin\Debug\net10.0\TiposValorEReferencia.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\bin\Debug\net10.0\TiposValorEReferencia.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\TiposValorEReferencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\TiposValorEReferencia.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\TiposValorEReferencia.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\TiposValorEReferencia.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\TiposValorEReferencia.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\TiposValorEReferencia.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\refint\TiposValorEReferencia.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\TiposValorEReferencia.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\TiposValorEReferencia.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\TiposValorEReferencia\obj\Debug\net10.0\ref\TiposValorEReferencia.dll

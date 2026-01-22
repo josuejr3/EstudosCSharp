@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c98a0e83c9036db6",
+        "id": "d514f7168c663c17",
         "type": "tabs",
         "children": [
           {
-            "id": "ae42e5da12ab4699",
+            "id": "79379c11391b8339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C# Udemy/Seção 5/2. Construtores, Sobrecarga e o This.md",
+                "file": "C# Udemy/Seção 6/2. Tipos valor e referência, garbage collector, nullable e vetores..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Construtores, Sobrecarga e o This"
+              "title": "2. Tipos valor e referência, garbage collector, nullable e vetores."
             }
           }
         ]
@@ -168,22 +168,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ae42e5da12ab4699",
+  "active": "79379c11391b8339",
   "lastOpenFiles": [
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/ExercicioBanco.csproj.FileListAbsolute.txt",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.pdb",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/ref/ExercicioBanco.dll",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.dll",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.runtimeconfig.json",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/ExercicioBanco.genruntimeconfig.cache",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.deps.json",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/bin/Debug/net10.0/ExercicioBanco.exe",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/apphost.exe",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/refint/ExercicioBanco.dll",
-    "C# Udemy/Seção 5/Codes/ExercicioBanco/obj/Debug/net10.0/ExercicioBanco.pdb",
-    "C# Udemy/Seção 5/3. Encapsulamento, Properties e Modificadores de Acesso.md",
-    "C# Udemy/Seção 5/2. Construtores, Sobrecarga e o This.md",
+    "C# Udemy/Seção 6/Files/06-memoria-arrays-listas.pdf",
+    "C# Udemy/Seção 6/Files/06-memoria-arrays-listas(para-anotacoes).pdf",
+    "C# Udemy/Seção 6/Codes/Exercicio/bin/Debug/net10.0/Exercicio.pdb",
+    "C# Udemy/Seção 6/Codes/Exercicio/obj/Debug/net10.0/ref/Exercicio.dll",
+    "C# Udemy/Seção 6/Codes/Exercicio/bin/Debug/net10.0/Exercicio.dll",
+    "C# Udemy/Seção 6/Codes/Exercicio/bin/Debug/net10.0/Exercicio.runtimeconfig.json",
+    "C# Udemy/Seção 6/Codes/Exercicio/obj/Debug/net10.0/Exercicio.genruntimeconfig.cache",
+    "C# Udemy/Seção 6/Codes/Exercicio/bin/Debug/net10.0/Exercicio.deps.json",
+    "C# Udemy/Seção 6/Codes/Exercicio/bin/Debug/net10.0/Exercicio.exe",
+    "C# Udemy/Seção 6/Codes/Exercicio/obj/Debug/net10.0/apphost.exe",
+    "C# Udemy/Seção 6/Codes/Exercicio/obj/Debug/net10.0/refint/Exercicio.dll",
+    "C# Udemy/Seção 6/1. Visão Geral.md",
+    "C# Udemy/Seção 6/2. Tipos valor e referência, garbage collector, nullable e vetores..md",
     "C# Udemy/Seção 5/1. Visão Geral.md",
+    "C# Udemy/Seção 5/2. Construtores, Sobrecarga e o This.md",
+    "C# Udemy/Seção 5/3. Encapsulamento, Properties e Modificadores de Acesso.md",
     "C# Udemy/Seção 4/1. Visão Geral.md",
     "C# Udemy/Seção 4/2. Introdução.md",
     "Pasted image 20260117204738.png",
@@ -214,8 +216,6 @@
     "Variáveis.md",
     "Sem título 1.md",
     "Curso Latex - Seções.md",
-    "Curso Latex - Bibliografia.md",
-    "Curso Latex - Formatação Avançada.md",
     "main/Sem título.canvas"
   ]
 }
