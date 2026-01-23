@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\bin\Debug\net10.0\Listas.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\bin\Debug\net10.0\Listas.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\bin\Debug\net10.0\Listas.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\bin\Debug\net10.0\Listas.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\bin\Debug\net10.0\Listas.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\Listas.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\Listas.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\Listas.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\Listas.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\Listas.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\refint\Listas.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\Listas.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\Listas.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\Listas\obj\Debug\net10.0\ref\Listas.dll
