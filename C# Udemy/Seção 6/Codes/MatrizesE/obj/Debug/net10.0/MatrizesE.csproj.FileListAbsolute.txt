@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\bin\Debug\net10.0\MatrizesE.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\bin\Debug\net10.0\MatrizesE.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\bin\Debug\net10.0\MatrizesE.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\bin\Debug\net10.0\MatrizesE.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\bin\Debug\net10.0\MatrizesE.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\MatrizesE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\MatrizesE.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\MatrizesE.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\MatrizesE.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\MatrizesE.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\MatrizesE.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\refint\MatrizesE.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\MatrizesE.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\MatrizesE.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 6\Codes\MatrizesE\obj\Debug\net10.0\ref\MatrizesE.dll
