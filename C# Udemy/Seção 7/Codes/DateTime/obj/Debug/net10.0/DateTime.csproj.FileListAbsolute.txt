@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\bin\Debug\net10.0\DateTime.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\bin\Debug\net10.0\DateTime.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\bin\Debug\net10.0\DateTime.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\bin\Debug\net10.0\DateTime.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\bin\Debug\net10.0\DateTime.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\DateTime.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\DateTime.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\DateTime.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\DateTime.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\DateTime.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\refint\DateTime.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\DateTime.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\DateTime.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 7\Codes\DateTime\obj\Debug\net10.0\ref\DateTime.dll

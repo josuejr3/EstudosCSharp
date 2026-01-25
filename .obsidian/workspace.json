@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ffce4075a002eb2",
+            "id": "092b7998d8ffb93d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Modificador de parâmetros, boxing e unboxing, listas e matrizes.md",
+                "file": "C# Udemy/Seção 7/2. Inferência de Tipos, Sintaxes Alternativas, Períodos de Tempo e Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Modificador de parâmetros, boxing e unboxing, listas e matrizes"
+              "title": "2. Inferência de Tipos, Sintaxes Alternativas, Períodos de Tempo e Strings"
             }
           }
         ]
@@ -168,21 +168,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0ffce4075a002eb2",
+  "active": "092b7998d8ffb93d",
   "lastOpenFiles": [
-    "C# Udemy/Seção 6/Codes/MatrizesE/obj/Debug/net10.0/MatrizesE.csproj.FileListAbsolute.txt",
-    "C# Udemy/Seção 6/Codes/MatrizesE/bin/Debug/net10.0/MatrizesE.pdb",
-    "C# Udemy/Seção 6/Codes/MatrizesE/obj/Debug/net10.0/ref/MatrizesE.dll",
-    "C# Udemy/Seção 6/Codes/MatrizesE/bin/Debug/net10.0/MatrizesE.dll",
-    "C# Udemy/Seção 6/Codes/MatrizesE/bin/Debug/net10.0/MatrizesE.runtimeconfig.json",
-    "C# Udemy/Seção 6/Codes/MatrizesE/obj/Debug/net10.0/MatrizesE.genruntimeconfig.cache",
-    "C# Udemy/Seção 6/Codes/MatrizesE/bin/Debug/net10.0/MatrizesE.deps.json",
-    "C# Udemy/Seção 6/Codes/MatrizesE/bin/Debug/net10.0/MatrizesE.exe",
-    "C# Udemy/Seção 6/Codes/MatrizesE/obj/Debug/net10.0/apphost.exe",
-    "C# Udemy/Seção 6/Codes/MatrizesE/obj/Debug/net10.0/refint/MatrizesE.dll",
-    "C# Udemy/Seção 6/Codes/MatrizesE/obj/Debug/net10.0/MatrizesE.pdb",
+    "C# Udemy/Seção 7/Codes/DateTime/obj/Debug/net10.0/DateTime.csproj.FileListAbsolute.txt",
+    "C# Udemy/Seção 7/Codes/DateTime/bin/Debug/net10.0/DateTime.pdb",
+    "C# Udemy/Seção 7/Codes/DateTime/obj/Debug/net10.0/ref/DateTime.dll",
+    "C# Udemy/Seção 7/Codes/DateTime/bin/Debug/net10.0/DateTime.dll",
+    "C# Udemy/Seção 7/Codes/DateTime/bin/Debug/net10.0/DateTime.runtimeconfig.json",
+    "C# Udemy/Seção 7/Codes/DateTime/obj/Debug/net10.0/DateTime.genruntimeconfig.cache",
+    "C# Udemy/Seção 7/Codes/DateTime/bin/Debug/net10.0/DateTime.deps.json",
+    "C# Udemy/Seção 7/Codes/DateTime/bin/Debug/net10.0/DateTime.exe",
+    "C# Udemy/Seção 7/Codes/DateTime/obj/Debug/net10.0/apphost.exe",
+    "C# Udemy/Seção 7/Codes/DateTime/obj/Debug/net10.0/refint/DateTime.dll",
+    "C# Udemy/Seção 7/Codes/DateTime/obj/Debug/net10.0/DateTime.pdb",
+    "C# Udemy/Seção 6/3. Modificador de parâmetros, boxing e unboxing, listas e matrizes.md",
+    "C# Udemy/Seção 7/2. Inferência de Tipos, Sintaxes Alternativas, Períodos de Tempo e Strings.md",
     "C# Udemy/Seção 6/2. Tipos valor e referência, garbage collector, nullable e vetores..md",
-    "3. Modificador de parâmetros, boxing e unboxing, listas e matrizes.md",
+    "C# Udemy/Seção 7/1. Visão Geral - Tópicos Especiais em C Sharp.md",
     "C# Udemy/Seção 6/1. Visão Geral.md",
     "C# Udemy/Seção 5/1. Visão Geral.md",
     "C# Udemy/Seção 5/2. Construtores, Sobrecarga e o This.md",
@@ -194,7 +196,7 @@
     "C# Udemy/Seção 4/Imagens/Fórmula de Heron.png",
     "Pasted image 20260115194517.png",
     "C# Udemy/Seção 3/1. Visão Geral.md",
-    "5. Funções e Laços de Repetição.md",
+    "C# Udemy/Seção 3/5. Funções e Laços de Repetição.md",
     "C# Udemy/Seção 3/4. Operadores Comparativos, Lógicos e Estruturas Condicionais.md",
     "C# Udemy/Seção 3/3. Entrada e Saída de Dados.md",
     "C# Udemy/Seção 3/2. Tipos de dados.md",
@@ -214,8 +216,6 @@
     "Aulão C#/Introdução aos códigos do C Sharp.md",
     "Aulão C#/1. Sumário.md",
     "Constantes.md",
-    "Variáveis.md",
-    "Sem título 1.md",
     "main/Sem título.canvas"
   ]
 }
