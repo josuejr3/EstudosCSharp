@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\bin\Debug\net10.0\Enumeracoes.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\bin\Debug\net10.0\Enumeracoes.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\bin\Debug\net10.0\Enumeracoes.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\bin\Debug\net10.0\Enumeracoes.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\bin\Debug\net10.0\Enumeracoes.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\Enumeracoes.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\Enumeracoes.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\Enumeracoes.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\Enumeracoes.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\Enumeracoes.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\refint\Enumeracoes.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\Enumeracoes.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\Enumeracoes.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\Enumeracoes\obj\Debug\net10.0\ref\Enumeracoes.dll

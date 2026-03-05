@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\bin\Debug\net10.0\SB.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\bin\Debug\net10.0\SB.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\bin\Debug\net10.0\SB.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\bin\Debug\net10.0\SB.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\bin\Debug\net10.0\SB.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\SB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\SB.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\SB.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\SB.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\SB.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\SB.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\refint\SB.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\SB.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\SB.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 8\Codes\SB\obj\Debug\net10.0\ref\SB.dll
