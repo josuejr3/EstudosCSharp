@@ -1,0 +1,15 @@
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\bin\Debug\net10.0\Heranca.exe
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\bin\Debug\net10.0\Heranca.deps.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\bin\Debug\net10.0\Heranca.runtimeconfig.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\bin\Debug\net10.0\Heranca.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\bin\Debug\net10.0\Heranca.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\Heranca.AssemblyInfoInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\Heranca.AssemblyInfo.cs
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\Heranca.csproj.CoreCompileInputs.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\Heranca.sourcelink.json
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\Heranca.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\refint\Heranca.dll
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\Heranca.pdb
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\Heranca.genruntimeconfig.cache
+D:\Josue\Cursos\EstudosCSharp\C# Udemy\Seção 9\Codes\Heranca\Heranca\obj\Debug\net10.0\ref\Heranca.dll
